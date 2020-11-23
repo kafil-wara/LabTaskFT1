@@ -1,0 +1,13 @@
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\netcoreapp3.1\LabTaskFT1.csprojAssemblyReference.cache
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\netcoreapp3.1\LabTaskFT1.AssemblyInfoInputs.cache
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\netcoreapp3.1\LabTaskFT1.AssemblyInfo.cs
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\netcoreapp3.1\LabTaskFT1.csproj.CoreCompileInputs.cache
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\bin\Debug\netcoreapp3.1\LabTaskFT1.exe
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\bin\Debug\netcoreapp3.1\LabTaskFT1.deps.json
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\bin\Debug\netcoreapp3.1\LabTaskFT1.runtimeconfig.json
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\bin\Debug\netcoreapp3.1\LabTaskFT1.runtimeconfig.dev.json
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\bin\Debug\netcoreapp3.1\LabTaskFT1.dll
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\bin\Debug\netcoreapp3.1\LabTaskFT1.pdb
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\netcoreapp3.1\LabTaskFT1.dll
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\netcoreapp3.1\LabTaskFT1.pdb
+C:\Users\Kafil\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\netcoreapp3.1\LabTaskFT1.genruntimeconfig.cache
